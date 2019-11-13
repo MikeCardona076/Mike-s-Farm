@@ -1,0 +1,21 @@
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\bin\Debug\Mike_Helps_us.exe.config
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\bin\Debug\Mike_Helps_us.exe
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\bin\Debug\Mike_Helps_us.pdb
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.Form1.resources
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.Properties.Resources.resources
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.csproj.GenerateResource.cache
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.exe
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.pdb
+C:\Users\Mike Cardona\Documents\Programacion_visual\terceraunidad\Mike_Helps_us\obj\Debug\Mike_Helps_us.Form2.resources
+C:\Users\PC\Documents\C#\Mike_Helps_us\bin\Debug\Mike_Helps_us.exe.config
+C:\Users\PC\Documents\C#\Mike_Helps_us\bin\Debug\Mike_Helps_us.exe
+C:\Users\PC\Documents\C#\Mike_Helps_us\bin\Debug\Mike_Helps_us.pdb
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.csprojAssemblyReference.cache
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.Form1.resources
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.Form2.resources
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.Properties.Resources.resources
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.csproj.GenerateResource.cache
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.exe
+C:\Users\PC\Documents\C#\Mike_Helps_us\obj\Debug\Mike_Helps_us.pdb
